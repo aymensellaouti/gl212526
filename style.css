@@ -1,0 +1,6 @@
+/* Le tag x */
+p {}
+/* La class */
+.test {}
+/* Toute balise p ayant la classe test */
+p.test[name='aymen'] {}
